@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RaAndroid_Header</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rx_error">Rx Error</string>
+    <string name="searchview_hint_text">Enter Postcode</string>
+    <string name="btSearch">Search</string>
+    <string name="bt_search_text">Search</string>
+    <string name="search_empty_text_error">Search can\'t be empty</string>
+</resources>
